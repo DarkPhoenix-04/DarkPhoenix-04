@@ -4,7 +4,7 @@
 </div>
 <p class="intro">Greetings, wanderer! I am Pranshu, also known as Dark Phoenix, a developer and designer with a passion for viewing the world through a lens of fantasy. This is my introductory repository where I will guide you through the magical domain of my work and the contents of my tech arsenal.
 
-✨ Don't forget to drop a "hi" if you're interested. Are you ready to step into the domain of fantasy? Here we go! ✨</p>
+✨ Don't forget to "Star" if you're interested. Are you ready to step into the domain of fantasy? Here we go! ✨</p>
 
   <h2>✨ About Me</h2>
         <p>In the mystical realm of development, I am a sorcerer of:</p>
